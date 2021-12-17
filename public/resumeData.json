@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Tawsif Haque",
+    "occupation": "Front-End Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profile_img.jpg",
+    "bio": "Hi there! I am Tawsif! I am a passionate and driven self-taught front-end web developer with a passion for building websites and web apps, and a desire to bring fresh ideas and creativity to the table. Using the newest and best frameworks and technologies with responsive web design strategies with solid knowledge in major web programming languages and frameworks. Alongside, the ability to effectively self-manage during independent projects, as well as collaborate in a team setting with effective communication.",
+    "contactmessage": "Get in touch with me",
+    "email": "tawsifmasrur@gmail.com",
+    "phone": "+8801834814276",
+    "address": {
+      "street": "5-Milk Vita Road, ICDDR'B Housing Complex, Mirpur-7",
+      "city": "Dhaka",
+      "zip": "1216"
+    },
+    "website": "https://iftee97.github.io/portfolio2/",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tawsifmasrurhaque.iftee/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tawsif-masrur-haque-473799228/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tawsifhaque27/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Iftee97",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Independent University, Bangladesh (IUB)",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2022 (expected)",
+        "description": "mostly self-taught, apart from uni courses"
+      }
+    ],
+    "work": [
+      {
+        "company": "Juvenile English Medium School",
+        "title": "ICT Teacher (5th and 6th graders)",
+        "years": "August 2015 - November 2017",
+        "description": "Tutoring Computer Studies for 5th and 6th graders. Tutored basics of coding - HTML & CSS. Helped drive the passion of coding and building things with code to youngsters being a 17-year old myself."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Next Js",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dad Jokes Generator (Vanilla JS)",
+        "category": "",
+        "image": "dad_jokes.png",
+        "url": "https://iftee97.github.io/Dad_jokes/"
+      },
+      {
+        "title": "Quote Generator (Vanilla JS)",
+        "category": "",
+        "image": "quote_generator_js.png",
+        "url": "https://iftee97.github.io/Quote_Generator/"
+      },
+      {
+        "title": "City Weather App (Vanilla JS)",
+        "category": "",
+        "image": "weather_app_js.png",
+        "url": "https://iftee97.github.io/Weather_App/"
+      },
+      {
+        "title": "Rock Paper Scissors (Vanilla JS)",
+        "category": "",
+        "image": "rock_paper_scissors_js.png",
+        "url": "https://iftee97.github.io/Rock_Paper_Scissors_New/"
+      },
+      {
+        "title": "Front-End BootCamp (Landing Page - Bootstrap)",
+        "category": "",
+        "image": "frontend_bootcamp_landing_page.png",
+        "url": "https://iftee97.github.io/FrontEnd_Bootcamp--Bootstrap/"
+      },
+      {
+        "title": "TinDog (Landing Page - Bootstrap)",
+        "category": "",
+        "image": "tin_dog_landing_page.png",
+        "url": "https://iftee97.github.io/TinDog--Bootstrap/"
+      },
+      {
+        "title": "RoboFriends (React JS)",
+        "category": "",
+        "image": "robofriends_react.png",
+        "url": "https://iftee97.github.io/RoboFriends/"
+      },
+      {
+        "title": "Search Pics (React JS)",
+        "category": "",
+        "image": "search_pics_react.png",
+        "url": "https://iftee97.github.io/SearchPics/"
+      },
+      {
+        "title": "Search Vids (React JS)",
+        "category": "",
+        "image": "search_vids_react.png",
+        "url": "https://iftee97.github.io/SearchVids/"
+      },
+      {
+        "title": "Smart Brain (React JS)",
+        "category": "",
+        "image": "smartbrain_react.png",
+        "url": "https://iftee97.github.io/SmartBrain--Frontend-React/"
+      },
+      {
+        "title": "Keeper App (React JS)",
+        "category": "",
+        "image": "keeper_app_react.png",
+        "url": "https://b1yz1.csb.app/"
+      },
+      {
+        "title": "Sample Portfolio (landing page)",
+        "category": "",
+        "image": "sample_portfolio.png",
+        "url": "https://iftee97.github.io/portfolio2/"
+      }
+    ]
+  }
+}
